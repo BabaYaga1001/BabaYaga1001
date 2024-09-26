@@ -29,4 +29,4 @@
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank"> <img hspace ="20" align="center" src="https://github.com/BabaYaga1001/BabaYaga1001/blob/main/Assets/css.png" alt="CSS" width="37" height="50"/> </a>
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"> <img hspace ="20" align="center" src="https://github.com/BabaYaga1001/BabaYaga1001/blob/main/Assets/Adobe_Photoshop_CC.svg" alt="Photoshop CC" width="45" height="45"/> </a>
 <a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"> <img hspace ="20" align="center" src="https://github.com/BabaYaga1001/BabaYaga1001/blob/main/Assets/ae.png" alt="After Effects" width="55" height="55"/> </a>
-<a href="https://visualstudio.microsoft.com" target="_blank"> <img hspace ="20" align="center" src="https://github.com/BabaYaga1001/BabaYaga1001/blob/main/Assets/Visual_Studio.svg" alt="Visual Studio" width="43" height="43"/> </a>
+<a href="https://visualstudio.microsoft.com" target="_blank"> <img hspace ="20" align="center" src="https://github.com/BabaYaga1001/BabaYaga1001/blob/main/Assets/visual-studio-code-icon.svg" alt="Visual Studio" width="43" height="43"/> </a>
