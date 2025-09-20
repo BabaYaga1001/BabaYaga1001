@@ -18,7 +18,7 @@
 
 ### Yes I know terminals:
 <a href="https://www.microsoft.com/en-us/windows" target="_blank"> <img hspace ="20" align="center" src="https://github.com/FireDrop6000/FireDrop6000/blob/main/Assets/win.png" alt="Windows" width="50" height="50"/> </a>
-<a href="https://fedoraproject.org/" target="_blank"> <img hspace ="20" align="center" src="https://github.com/BabaYaga1001/BabaYaga1001/blob/main/Assets/fedora.png" alt="Fedora" width="50" height="50"/></a><a href="https://archlinux.org/" target="_blank"><img hspace ="20" align="center" src="https://github.com/FireDrop6000/FireDrop6000/blob/main/Assets/arch.png" alt="Arch Linux" width="50" height="50"/> </a>
+<a href="https://archlinux.org/" target="_blank"><img hspace ="20" align="center" src="https://github.com/FireDrop6000/FireDrop6000/blob/main/Assets/arch.png" alt="Arch Linux" width="50" height="50"/> </a>
 <p>I use Arch btw</p>
 
 ### Languages and Tools I have worked with:
